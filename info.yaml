@@ -1,7 +1,7 @@
 # Tiny Tapeout GlobalFoundries project configuration
 project:
   title: "NEXUS-AI 8 - INT4 Neural MAC Accelerator"
-  author: "IEEE Open Silicon Bootcamp team"
+  author: "Avila Islas Gabriel Alejandro"
   discord: ""
   description: "Signed 4-bit multiply-accumulate, 8-bit saturation and ReLU using only 8 inputs / 8 outputs"
   language: "Verilog"
